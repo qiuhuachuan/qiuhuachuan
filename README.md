@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qiuhuachuan
 - 👀 I was graduated from South China University of Technology
-- 🌱 I’m a Ph.D. student in Westlake University
+- 🌱 I’m a Ph.D. student jointly enrolled in in Zhejiang University and Westlake University
 - 💞️ I’m currently learning Natural Language Processing
 - 📫 Feel free to ask anything about Natural Language Processing 
 
